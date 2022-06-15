@@ -2,22 +2,20 @@
 owner: nigarumovum # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 sites:
+  - name: Brealy Portfolio
+    url: https://brealypadronrodriguez.vercel.app/
+  - name: MacOS Portfolio
+    url: https://mac-os-desktop-app-react.vercel.app
   - name: Neighbordev CR
     url: https://neighbordevcr.com
-  - name: Tecnoelectro
-    url: https://tecnoelectrocomercioonline.com
   - name: Skin Thing 
-    url: https://skinthingcr.herokuapp.com
-  - name: Brealy Portfolio
-    url: https://brealy-padron-portfolio-react.vercel.app
+    url: https://
   - name: Radion v1 
     url: https://radion-react.vercel.app
   - name: Radion v2
     url: https://radion.vercel.app
   - name: Chat App
-    url: https://chat-nodeexpect.herokuapp.com
-  - name: MacOS Portfolio
-    url: https://mac-os-desktop-app-react.vercel.app
+    url: https://
   - name: Tripping CR
     url: https://tripincr.vercel.app
   - name: Tarotly
