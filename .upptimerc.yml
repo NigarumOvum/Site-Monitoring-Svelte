@@ -5,17 +5,19 @@ sites:
   - name: Brealy Portfolio
     url: https://brealypadronrodriguez.vercel.app/
   - name: MacOS Portfolio
-    url: https://mac-os-desktop-app-react.vercel.app
+    url: https://mac-os-desktop-app-react.vercel.app/
   - name: Neighbordev CR
-    url: https://neighbordevcr.com
+    url: https://neighbordev-cr.herokuapp.com/
   - name: Skin Thing 
-    url: https://
+    url: https://skinthing-cr.herokuapp.com/
+  - name: Chat App
+    url: https://nigarumovum-chat.herokuapp.com
+  - name: Video Chat App
+    url: 
   - name: Radion v1 
     url: https://radion-react.vercel.app
   - name: Radion v2
     url: https://radion.vercel.app
-  - name: Chat App
-    url: https://
   - name: Tripping CR
     url: https://tripincr.vercel.app
   - name: Tarotly
