@@ -13,7 +13,7 @@ sites:
   - name: Chat App
     url: https://nigarumovum-chat.herokuapp.com
   - name: Video Chat App
-    url: 
+    url: https://nigarumovum-chat.herokuapp.com
   - name: Radion v1 
     url: https://radion-react.vercel.app
   - name: Radion v2
