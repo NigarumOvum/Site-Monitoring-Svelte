@@ -131,7 +131,7 @@
     "status": "down",
     "uptime": "39.81%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.71%",
+    "uptimeWeek": "80.69%",
     "uptimeMonth": "95.56%",
     "uptimeYear": "39.81%",
     "time": 269,
@@ -140,7 +140,7 @@
     "timeMonth": 411,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2022-07-20": 903,
+      "2022-07-20": 905,
       "2022-07-19": 1042,
       "2022-06-19": 1144,
       "2022-06-18": 1440,
@@ -221,18 +221,18 @@
     "icon": "https://favicons.githubusercontent.com/skinthing-cr.herokuapp.com",
     "slug": "skin-thing-cr",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.51%",
+    "uptimeDay": "0.51%",
+    "uptimeWeek": "0.51%",
+    "uptimeMonth": "0.51%",
+    "uptimeYear": "0.51%",
     "time": 258,
     "timeDay": 258,
     "timeWeek": 258,
     "timeMonth": 258,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2022-07-20": 0
+      "2022-07-20": 2
     }
   },
   {
@@ -243,7 +243,7 @@
     "status": "down",
     "uptime": "56.56%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.71%",
+    "uptimeWeek": "80.69%",
     "uptimeMonth": "95.56%",
     "uptimeYear": "56.56%",
     "time": 383,
@@ -252,7 +252,7 @@
     "timeMonth": 210,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2022-07-20": 903,
+      "2022-07-20": 905,
       "2022-07-19": 1041,
       "2022-06-19": 1144,
       "2022-06-18": 1440,
@@ -319,7 +319,7 @@
     "status": "down",
     "uptime": "95.62%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.71%",
+    "uptimeWeek": "80.69%",
     "uptimeMonth": "95.56%",
     "uptimeYear": "95.62%",
     "time": 56,
@@ -328,7 +328,7 @@
     "timeMonth": 59,
     "timeYear": 56,
     "dailyMinutesDown": {
-      "2022-07-20": 903,
+      "2022-07-20": 905,
       "2022-07-19": 1041
     }
   },
@@ -367,7 +367,7 @@
     "timeMonth": 863,
     "timeYear": 1164,
     "dailyMinutesDown": {
-      "2022-07-20": 904,
+      "2022-07-20": 905,
       "2022-07-19": 1440,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
