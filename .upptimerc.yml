@@ -8,8 +8,6 @@ sites:
     url: https://mac-os-desktop-app-react.vercel.app/
   - name: Neighbordev CR
     url: https://neighbordevcr.com/
-  - name: Skin Thing CR
-    url: https://skinthing-cr.herokuapp.com/
   - name: Chat App
     url: https://streamchat-node-production.up.railway.app/
   - name: Drum Web App
