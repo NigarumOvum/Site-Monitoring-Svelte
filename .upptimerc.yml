@@ -7,18 +7,16 @@ sites:
   - name: MacOS Portfolio
     url: https://mac-os-desktop-app-react.vercel.app/
   - name: Neighbordev CR
-    url: https://neighbordev-cr.herokuapp.com/
+    url: https://neighbordevcr.com/
   - name: Skin Thing CR
     url: https://skinthing-cr.herokuapp.com/
   - name: Chat App
-    url: https://nigarumovum-chat.herokuapp.com
-  - name: Video Chat App
-    url: https://nigarumovum-chat.herokuapp.com
-  - name: Radion v1 
-    url: https://radion-react.vercel.app
-  - name: Radion v2
-    url: https://radion.vercel.app
-  - name: Tripping CR
+    url: https://streamchat-node-production.up.railway.app/
+  - name: Drum Web App
+    url: https://nigarumovum.github.io/DrumKit-WebApp/
+  - name: 3D CHEST
+    url: https://nigarumovum.github.io/3DChest/
+  - name: Trip in CR
     url: https://tripincr.vercel.app
   - name: Tarotly
     url: https://tarotly-react.vercel.app
@@ -43,9 +41,6 @@ sites:
   - name: WebApps & Games
     url: https://web-apps-games.vercel.app/
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-#   baseUrl: /Site-Monitoring-Svelte
-  name: Neighbordev CR - Monitoring My projects
-  introTitle: "Monitoring Web App"
+  name: Neighbordev CR - Monitoring My Apps
+  introTitle: "Monitoring My Web Apps"
   introMessage: Thanks for visit...
