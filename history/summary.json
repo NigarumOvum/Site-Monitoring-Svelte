@@ -357,7 +357,7 @@
     "timeMonth": 219,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2023-02-11": 988,
+      "2023-02-11": 1006,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
@@ -764,19 +764,19 @@
     "url": "https://social-media-react-mu.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/social-media-react-mu.vercel.app.ico",
     "slug": "social-media-react",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 65,
+    "timeDay": 69,
     "timeWeek": 70,
-    "timeMonth": 86,
+    "timeMonth": 85,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2023-02-11": 0
+      "2023-02-11": 18
     }
   },
   {
