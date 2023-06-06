@@ -1,43 +1,37 @@
 # Change these first
-owner: nigarumovum # Your GitHub organization or username, where this repository lives
+owner: NigarumOvum # Your GitHub organization or username, where this repository lives
 repo: Site-Monitoring-Svelte # The name of this repository
 sites:
   - name: Brealy Portfolio
     url: https://brealypadronrodriguez.vercel.app/
-  - name: MacOS Portfolio
-    url: https://mac-os-desktop-app-react.vercel.app/
   - name: Neighbordev CR
     url: https://neighbordevcr.com/
-  - name: Chat App
-    url: https://streamchat-node-production.up.railway.app/
+   - name: Tecnoelectro Comercio Online
+    url: https://tecnoelectrocomercioonline.com/
   - name: Drum Web App
     url: https://nigarumovum.github.io/DrumKit-WebApp/
-  - name: 3D CHEST
-    url: https://nigarumovum.github.io/3DChest/
-  - name: Trip in CR
-    url: https://tripincr.vercel.app
   - name: Tarotly
-    url: https://tarotly-react.vercel.app
+    url: https://tarotly-react.vercel.app/
+   - name: Notes App
+    url: https://notes-react-psi.vercel.app/
+  - name: Tripin CR
+    url: https://tripincr.vercel.app/
   - name: BookFreak
-    url: https://book-freak-react.vercel.app
+    url: https://book-freak-react.vercel.app/
   - name: Shopping Cart - React
     url: https://shopping-cart-three-omega.vercel.app/
   - name:  Servicing React 
     url: https://servicing-react.vercel.app/
-  - name:  Social Media React
-    url: https://social-media-react-mu.vercel.app/
   - name: NASA Explorer
-    url: https://nasa-app-api.vercel.app
+    url: https://nasa-app-api.vercel.app/
   - name: Expense Tracker
-    url: https://expense-tracker-vert.vercel.app
+    url: https://expense-tracker-vert.vercel.app/
   - name: Song Lyric Browser
-    url: https://lyric-search-eosin.vercel.app
+    url: https://lyric-search-eosin.vercel.app/
   - name: Meal Finder
     url: https://meal-finder-sandy.vercel.app/
   - name: Exchange Rate Calculator
     url: https://exchange-rate-tau.vercel.app/
-  - name: WebApps & Games
-    url: https://web-apps-games.vercel.app/
 status-website:
   name: Neighbordev CR - Monitoring My Apps
   introTitle: "Monitoring My Web Apps"
